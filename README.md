@@ -1,16 +1,62 @@
-# React + Vite
+\# Schema Studio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+An advanced, ad-free, and 100% serverless \*\*JSON-LD Graph Schema Generator\*\* designed for the modern AI Search era (SearchGPT, Perplexity, and Google AI Overviews).
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+Targeting technical SEO specialists and indie developers who want to build unified semantic knowledge graphs instead of isolated schema fragments.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+👉 \*\*Live Demo:\*\* \[https://schema-studio.netlify.app/](https://schema-studio.netlify.app/)
+
+
+
+\## ✨ Key Features
+
+
+
+\- \*\*AI Graph Mode:\*\* Instantly binds independent `Organization` and `FAQ` schemas into a single, valid nested `@graph` array structure.
+
+\- \*\*Clean Copy Engine:\*\* One-click copy that strips HTML `<script>` tags, extracting pure JSON syntax ready for Google's Rich Results Test tool.
+
+\- \*\*Local Persistence:\*\* Saves configuration data securely inside the browser's local storage.
+
+\- \*\*Programmatic SEO Module:\*\* Includes built-in search engine optimized learning paths to organically capture high-intent traffic.
+
+\- \*\*Integrated Marketing Bot:\*\* Features an internal Python-driven automation tool (`bot.py`) that uses deterministic feature-mapping to generate social media threads and hooks.
+
+
+
+\## 🛠️ Tech Stack
+
+
+
+\- \*\*Frontend:\*\* React (SPA Architecture), Vite, Tailwind CSS V4
+
+\- \*\*Routing \& Meta:\*\* `react-router-dom`, `react-helmet`
+
+\- \*\*Automation:\*\* Python 3 (Content Generation Core)
+
+
+
+\## 🚀 Getting Started
+
+
+
+Clone the repository and install dependencies locally:
+
+
+
+```bash
+
+git clone \[https://github.com/YOUR\_USERNAME/schema-studio.git](https://github.com/YOUR\_USERNAME/schema-studio.git)
+
+cd schema-studio
+
+npm install
+
+npm run dev
+
