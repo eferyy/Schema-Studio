@@ -75,8 +75,8 @@ function App() {
                 {
                   "@type": "SoftwareApplication",
                   "name": "Schema Studio",
-                  "applicationCategory": "DeveloperApplication",
-                  "operatingSystem": "Any",
+                  "applicationCategory": "SEO/Developer Tool",
+                  "operatingSystem": "Web",
                   "url": "https://schemastudio.app",
                   "offers": {
                     "@type": "Offer",

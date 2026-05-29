@@ -17,8 +17,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/guides/what-is-json-ld-graph" element={<Guide1 />} />
             <Route path="/guides/fix-isolated-schema-errors" element={<Guide2 />} />
-            <Route path="/generators/organization-schema" element={<OrganizationSchemaPage />} />
-            <Route path="/generators/faq-schema" element={<FAQSchemaPage />} />
+            <Route path="/generate/organization-schema" element={<OrganizationSchemaPage />} />
+            <Route path="/generate/faq-schema" element={<FAQSchemaPage />} />
           </Routes>
         </div>
       </div>
