@@ -1,0 +1,27 @@
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Production
+dist
+build
+
+# Editor folders and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
