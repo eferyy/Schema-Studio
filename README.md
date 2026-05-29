@@ -10,7 +10,7 @@ Targeting technical SEO specialists and indie developers who want to build unifi
 
 
 
-👉 \*\*Live Demo:\*\* \[https://schema-studio.netlify.app/](https://schema-studio.netlify.app/)
+👉 \*\*Live Demo:\*\*(https://schema-studio.netlify.app/)
 
 
 
@@ -52,11 +52,12 @@ Clone the repository and install dependencies locally:
 
 ```bash
 
-git clone \[https://github.com/YOUR\_USERNAME/schema-studio.git](https://github.com/YOUR\_USERNAME/schema-studio.git)
+git clone \\\[https://github.com/YOUR\\\_USERNAME/schema-studio.git](https://github.com/YOUR\\\_USERNAME/schema-studio.git)
 
 cd schema-studio
 
 npm install
 
 npm run dev
+
 
